@@ -386,3 +386,24 @@ margin-left: 1200px;
     margin-left: 350px;
   }
 }
+@media (max-width: 361px){
+  .img{
+    margin-left: 0px;
+  }
+  .aside-list{
+     margin-left: -100px;
+  }
+  #imge{
+    margin-left: 250px;
+    width: 20%;
+    height: 20%;
+  }
+  .contentbox{
+    margin-left: 280px;
+  }
+  .icon{
+    margin-left: 130px;
+    margin-top: 70px;
+  }
+}
+
