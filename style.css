@@ -388,7 +388,7 @@ margin-left: 1200px;
 }
 @media (max-width: 361px){
   .img{
-    margin-left: 0px;
+    margin-left: 5px;
   }
   .aside-list{
      margin-left: -100px;
